@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Kan11.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/250px-Kan11Logo.svg.png" group-title="",Kan 11
+#EXTINF:-1 tvg-id="ערוץ 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/250px-Kan11Logo.svg.png" group-title="",Kan 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 
 #EXTINF:-1 tvg-id="Keshet12.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/200px-Keshet12_2018.svg.png" group-title="General",Keshet 12
