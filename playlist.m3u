@@ -4,7 +4,7 @@
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 
 #EXTINF:-1 tvg-id="ערוץ 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/200px-Keshet12_2018.svg.png" group-title="",קשת 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=100-2700&_uid=W93b418c3db5894cf51cb387c1af151cdd8d&playerSessionid=675b7657-403f-479a-b2ed-2bb2bccf5466&hdnea=st=1691502026~exp=1691502926~acl=/*~hmac=428714300fc798c43233b014cae4d225be1ad840af86b3ff628dfec6d47b0167
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/hdntl=exp=1691593783~acl=%2f*~data=hdntl~hmac=8dce4b4015ce68e278210af77698fb5c631869bbeb7c84475e16c6214f96a36b/profileManifest.m3u8?_uid=aad6a502-26fe-46f3-8c89-f0893a923b18&rK=a4&_did=W93b418c3db5894cf51cb387c1af151cdd8d
 
 #EXTINF:-1 tvg-id="ערוץ 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/New_Logo_13_2022.jpg/220px-New_Logo_13_2022.jpg" group-title="",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
