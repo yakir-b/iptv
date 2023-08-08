@@ -21,7 +21,7 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 tvg-id="ערוץ 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Arutz_24_logo.png/220px-Arutz_24_logo.png" group-title="",ערוץ 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?hdnea=st=1691494519~exp=1691495419~acl=/*~hmac=2f6ad2773f4ad1d2ada5c8afd088eb54aaf7579574d6ad0efd3b9438d5c9f7b7
 
-#EXTINF:-1 tvg-id="ישראל 33" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Iba33_il.svg/100px-Iba33_il.svg.png" group-title="",מכאן 33
+#EXTINF:-1 tvg-id="ישראל 33" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/4d/Makan.svg/2560px-Makan.svg.png" group-title="",מכאן 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
 #EXTINF:-1 tvg-id="ערוץ הכנסת" tvg-logo="https://online-television.net/uploads/posts/2023-02/knesset-tv.webp" group-title="",ערוץ הכנסת
