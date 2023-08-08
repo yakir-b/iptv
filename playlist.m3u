@@ -1,31 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Kan11.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/512px-Kan11Logo.svg.png" group-title="",Kan 11
+#EXTINF:-1 tvg-id="Kan11.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/250px-Kan11Logo.svg.png" group-title="",Kan 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 
-#EXTINF:-1 tvg-id="KanEducational.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/512px-KanHinuchit.svg.png" group-title="Education",Kan Educational
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1 tvg-id="Keshet12.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/200px-Keshet12_2018.svg.png" group-title="General",Keshet 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-2700&hdnea=st=1691493648~exp=1691494548~acl=/*~hmac=6fdb0a189399897a0129d587db2cada17627611938e3e10b5fa9b40a50d680e6
 
-#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Channel 13
+#EXTINF:-1 tvg-id="Reshet13.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/New_Logo_13_2022.jpg/220px-New_Logo_13_2022.jpg" group-title="General",Channel 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 
-#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-logo="https://i.imgur.com/QXB1jv8.png" group-title="",Knesset Channel
-https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Makan33.il" tvg-logo="https://i.imgur.com/RVtQTed.png" group-title="",Makan 33
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-
-#EXTINF:-1 tvg-id="Now14.il" tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="",Now 14
+#EXTINF:-1 tvg-id="Now14.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Noamperetz-now14logo.png/220px-Noamperetz-now14logo.png" group-title="",Now 14
 https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/master.m3u8
 
-#EXTINF:-1 tvg-id="Channel9.il" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="",Channel 9
-http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
-
-#EXTINF:-1 tvg-id="TheShoppingChannel.il" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" group-title="Shop",The Shopping Channel
+#EXTINF:-1 tvg-id="ShoppingChannel.il" tvg-logo="data:image/jpeg;base64,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" group-title="Shop",The Shopping Channel
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Channel 24
+#EXTINF:-1 tvg-id="Kan23.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/512px-KanHinuchit.svg.png" group-title="Education",Kan Educational
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Arutz_24_logo.png/220px-Arutz_24_logo.png" group-title="General",Channel 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?hdnea=st=1691494519~exp=1691495419~acl=/*~hmac=2f6ad2773f4ad1d2ada5c8afd088eb54aaf7579574d6ad0efd3b9438d5c9f7b7
 
-#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Keshet 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-2700&hdnea=st=1691493648~exp=1691494548~acl=/*~hmac=6fdb0a189399897a0129d587db2cada17627611938e3e10b5fa9b40a50d680e6
+#EXTINF:-1 tvg-id="Makan33.il" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Iba33_il.svg/100px-Iba33_il.svg.png" group-title="",Makan 33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+
+#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-logo="https://online-television.net/uploads/posts/2023-02/knesset-tv.webp" group-title="",Knesset Channel
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+
+
+
+
+
+
