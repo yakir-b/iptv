@@ -23,3 +23,9 @@ http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 
 #EXTINF:-1 tvg-id="TheShoppingChannel.il" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" group-title="Shop",The Shopping Channel
 https://shoppingil-rewriter.vidnt.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Channel 24
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
+
+#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Keshet 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-2700&hdnea=st=1691493648~exp=1691494548~acl=/*~hmac=6fdb0a189399897a0129d587db2cada17627611938e3e10b5fa9b40a50d680e6
