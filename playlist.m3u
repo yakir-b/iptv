@@ -19,7 +19,7 @@ https://shoppingil-rewriter.vidnt.com/index.m3u8
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 
 #EXTINF:-1 tvg-id="ערוץ 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Arutz_24_logo.png/220px-Arutz_24_logo.png" group-title="Music",ערוץ 24
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?hdnea=st=-1~exp=-1~acl=/*~hmac=2f6ad2773f4ad1d2ada5c8afd088eb54aaf7579574d6ad0efd3b9438d5c9f7b7
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=-1~acl=%2f*~data=hdntl~hmac=18cca91e1566b81cb220f36089fc523be162dd8028c8b96be3b62faa0b84a155/video_10801920_p_1.m3u8
 
 #EXTINF:-1 tvg-id="ישראל 33" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/4d/Makan.svg/2560px-Makan.svg.png" group-title="General",מכאן 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
