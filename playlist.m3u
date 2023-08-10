@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="ערוץ 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/250px-Kan11Logo.svg.png" group-title="General",כאן 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 
+#EXTINF:-1 tvg-id="ערוץ 12" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/f0/Keshet12_2018.svg/150px-Keshet12_2018.svg.png" group-title="General",קשת 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/hdntl=exp=1691743300~acl=%2f*~data=hdntl~hmac=1902321a6c5afc0da56ebadc84d80b92b3da2700eadc6e8d0f8ea4cb2aab75bf/profileManifest.m3u8?_uid=66d8fc61-ac3b-48cf-9693-974cc3668fb7&rK=a4&_did=W93b418c3db5894cf51cb387c1af151cdd8d
+
 #EXTINF:-1 tvg-id="ערוץ 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/New_Logo_13_2022.jpg/220px-New_Logo_13_2022.jpg" group-title="General",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 
